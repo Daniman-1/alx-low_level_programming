@@ -5,8 +5,8 @@
  *
  * return: 0
  */
-int main(void)
-{
+ int main(void)
+ {
 	int counter = 2;
 
 	float a = 1;
@@ -29,4 +29,4 @@ int main(void)
 	}
 	printf("\n");
 	return (0);
-}
+ }
