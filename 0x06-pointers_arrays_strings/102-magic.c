@@ -1,4 +1,11 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Description: prints a[2] = 98 by adding one line
+ *
+ * Return: Always 0 (Success)
+ **/
 
 int main(void)
 {
